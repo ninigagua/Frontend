@@ -13,11 +13,11 @@ li {
   background: #dbd8d7;
   padding: 1px;
 }
-.logo{
-  width: 117px;
-  height: 95px;
-  font-variant-position: 120px;
-  
+
+.logo {
+  position: absolute;
+  left: 100px;
+  top: -190px;
 
 }
 .wrap-banner {
@@ -47,6 +47,42 @@ h2 {
   height: 50px;
   line-height: 50px;
 }
+
+/*news-details codes*/
+
+.page {
+
+  width: 965px;
+  height: 535px;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+
+.page h2 {
+
+    
+    font-size: 18px;
+    margin-top: 10px;
+
+
+}
+
+.day {
+
+    width: 54px;
+    height: 52px;
+  
+}
+
+.day h2 {
+
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+
+
 .news h1 {
     padding-left: 14px;
     font-size: 18px;
