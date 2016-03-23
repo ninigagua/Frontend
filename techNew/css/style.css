@@ -13,6 +13,13 @@ li {
   background: #dbd8d7;
   padding: 1px;
 }
+.logo{
+  width: 117px;
+  height: 95px;
+  font-variant-position: 120px;
+  
+
+}
 .wrap-banner {
   margin-top: 30px;
   margin-bottom: 30px;
@@ -91,7 +98,12 @@ h2 {
   overflow: hidden;
 }
 .read-more {
-  font-size: 12px;
+  font-size: 15px;
+  position: absolute;
+  margin-left: 120px;
+  padding-top: 15px;
+
+
 }
 footer {
   background-color: #dbd8d7;
